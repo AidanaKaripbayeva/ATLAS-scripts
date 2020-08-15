@@ -1,0 +1,434 @@
+
+
+Working on https://learn.illinois.edu/course/view.php?id=42072
+
+invalid month: August. It should be between October	 and 	December
+
+
+Working on https://learn.illinois.edu/course/view.php?id=41739
+
+invalid month: January. It should be between October	 and 	December
+invalid month: January. It should be between October	 and 	December
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=42021
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+invalid year: 2016. It should be 2019
+
+invalid year: 2016. It should be 2019
+
+invalid year: 2017. It should be 2019
+
+invalid year: 2017. It should be 2019
+
+
+
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=41994
+
+invalid month: June. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=37623
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=39327
+
+
+Working on https://learn.illinois.edu/course/view.php?id=41718
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: April. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: April. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: February. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: February. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: June. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: February. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: July. It should be between October	 and 	December
+invalid month: August. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: August. It should be between October	 and 	December
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: August. It should be between October	 and 	December
+invalid month: August. It should be between October	 and 	December
+invalid month: February. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: February. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: January. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=41952
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+invalid year: 2020. It should be 2019
+
+invalid year: 2020. It should be 2019
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=41925
+
+invalid month: June. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=42054
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=41745
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=41271
+
+invalid month: August. It should be between October	 and 	December
+invalid month: August. It should be between October	 and 	December
+invalid month: August. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+invalid month: July. It should be between October	 and 	December
+
+
+Working on https://learn.illinois.edu/course/view.php?id=39843
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: June. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+invalid year: 2018. It should be 2019
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=39288
+
+invalid month: August. It should be between October	 and 	December
+invalid month: May. It should be between October	 and 	December
+invalid month: May. It should be between October	 and 	December
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: March. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: April. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: April. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: April. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: April. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: April. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: April. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=34927
+
+invalid month: August. It should be between October	 and 	December
+
+
+Working on https://learn.illinois.edu/course/view.php?id=41922
+
+invalid month: August. It should be between October	 and 	December
+invalid month: February. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: February. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: February. It should be between October	 and 	December
+invalid year: 2018. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+invalid month: May. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+invalid month: February. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+invalid month: February. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+invalid month: January. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+invalid month: January. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+invalid month: January. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+invalid month: January. It should be between October	 and 	December
+invalid year: 2020. It should be 2019
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=42048
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=40146
+
+
+
+Working on https://learn.illinois.edu/course/view.php?id=38478
+
+invalid month: August. It should be between October	 and 	December
+
+
+Working on https://learn.illinois.edu/course/view.php?id=41760
+
